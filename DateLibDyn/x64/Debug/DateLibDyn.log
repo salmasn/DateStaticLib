@@ -1,0 +1,2 @@
+﻿  pch_dyn.cpp
+C:\Users\Dell\source\repos\DateStatic\DateLibDyn\pch_dyn.cpp(4,1): error C2857: L'instruction '#include' spécifiée avec l'option de ligne de commande /Ycpch.h n'a pu être trouvée dans le fichier source
